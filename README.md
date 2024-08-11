@@ -1,3 +1,6 @@
+# apihealthcheck
+A simple react project that checks the health of the APIs.
+
 # cra-template-tailwindcss-typescript
 
 A streamlined [Tailwind CSS v3.1](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
